@@ -7,3 +7,4 @@ Eu sou a linha 4
 oi
 
 Testando se muda no diretório (simulação de outra pessoa fazendo alteração na nuvem enquanto tenho minha versão na minha maquina)
+oi
