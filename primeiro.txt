@@ -5,4 +5,5 @@ Eu sou a linha 4
 
 
 oi
-teste
+
+Testando se muda no diretório (simulação de outra pessoa fazendo alteração na nuvem enquanto tenho minha versão na minha maquina)
